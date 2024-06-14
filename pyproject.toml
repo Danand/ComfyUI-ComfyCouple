@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-comfycouple"
+description = " If you want to draw two different characters together without blending their features, so you could try to check out this custom node."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Danand/ComfyUI-ComfyCouple"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-ComfyCouple"
+Icon = ""
