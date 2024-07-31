@@ -2,7 +2,7 @@
 name = "comfyui-comfycouple"
 description = "If you want to draw two different characters together without blending their features, so you could try to check out this custom node."
 version = "0.1.4"
-license = "GPL-3.0"
+license = { text = "GNU General Public License v3.0" }
 
 [project.urls]
 Repository = "https://github.com/Danand/ComfyUI-ComfyCouple"
